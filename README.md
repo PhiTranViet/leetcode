@@ -1,7 +1,7 @@
 # LeetCode 150 - Practice Algorithms
 
 This repository contains solutions to the top 150 LeetCode algorithm problems solved using **JavaScript**. The goal is to enhance problem-solving skills, understand core algorithms, and prepare for technical interviews.
-
+https://leetcode.com/studyplan/top-interview-150/
 ---
 
 ## 📌 Goals
